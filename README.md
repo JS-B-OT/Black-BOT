@@ -55,7 +55,8 @@ Siapin alat dan bahannya.
 Ket: Script ini gratis ye Jangan dijual_-
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi`](htpps://wa.me/6285809440506)
+Gopay : 0858-0944-0506
+Dana : 0858-0944-0506
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
