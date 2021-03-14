@@ -55,7 +55,7 @@ Siapin alat dan bahannya.
 Ket: Script ini gratis ye Jangan dijual_-
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi Black BOT`](htp:\\wa.me/6285809440506)
+* [`Donasi Black BOT`](htpp:\\wa.me/6285809440506)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
