@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ramlan404/babybot.git"
+    "url": "git+https://github.com/JS-B-OT/Black-BOT.git"
   },
   "keywords": [
     "botwa",
@@ -23,9 +23,9 @@
   "author": "Ramlan ID",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ramlan404/babybot/issues"
+    "url": "https://github.com/JS-B-OT/Black-BOT/issues"
   },
-  "homepage": "https://github.com/Ramlan404/babybot#readme",
+  "homepage": "https://github.com/JS-B-OT/Black-BOT#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
     "async": "^3.2.0",
